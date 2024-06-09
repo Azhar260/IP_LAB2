@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+#header {
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+#content {
+    width: 80%;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+.menu-item {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.menu-item:hover {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
